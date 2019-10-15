@@ -35,13 +35,7 @@ public class LogEntry {
         this.end = end;
     }
 
-    public long getDuration() {
-        return duration;
-    }
-
-    public void setId(int duration) {
-        this.duration = duration;
-    }
+    public long getDuration() { return duration; }
 
     public String getType() {
         return type;

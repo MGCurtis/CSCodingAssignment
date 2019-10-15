@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogEntryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-10-15T15:30:12" hostname="DESKTOP-6SPQMCU" time="0.005">
+  <properties/>
+  <testcase name="setAlertShouldBeTrue" classname="LogEntryTest" time="0.004"/>
+  <testcase name="setAlertShouldBeFalse" classname="LogEntryTest" time="0.0"/>
+  <testcase name="calcDuration" classname="LogEntryTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
